@@ -1,0 +1,25 @@
+// TYPOGRAPHY
+h1 {
+  font-size: 5em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+h2 {
+  font-size: 2em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #5f5f5f;
+  letter-spacing: 0.03em;
+}
+section {
+  padding: $spacing-xl;
+  text-align: center;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
