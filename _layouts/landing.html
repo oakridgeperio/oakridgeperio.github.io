@@ -6,7 +6,7 @@
   <body>
     {%- include header.html -%}
 
-    <section class="grayed" id="main-splash">
+    <section class="main-splash" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
       <div class="wrapper">
         <h1>This is your Primary Heading</h1>
         <p>Flexitarian meggings hashtag, cronut poutine 90's paleo truffaut artisan. Master cleanse yr subway tile salvia shoreditch farm-to-table. Tofu slow-carb vexillologist try-hard kale chips. Trust fund tousled 8-bit chartreuse succulents jianbing.</p>

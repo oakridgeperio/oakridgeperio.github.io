@@ -11,6 +11,9 @@ html {
   "overrides/base",
   "overrides/colors";
 
+.main-splash {
+  background-size: cover;
+}
 .flex { display: flex; }
 .flex-align-items-center { align-items: center; }
 .photo-row {
