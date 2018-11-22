@@ -6,10 +6,12 @@
   <body>
     {%- include header.html -%}
 
-    <section class="main-splash" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-      <div class="wrapper">
-        <h1>This is your Primary Heading</h1>
-        <p>Flexitarian meggings hashtag, cronut poutine 90's paleo truffaut artisan. Master cleanse yr subway tile salvia shoreditch farm-to-table. Tofu slow-carb vexillologist try-hard kale chips. Trust fund tousled 8-bit chartreuse succulents jianbing.</p>
+    <section id="main-splash" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+      <div class="haze padding-xl">
+        <div class="wrapper">
+          <h1>This is your Primary Heading</h1>
+          <p>Flexitarian meggings hashtag, cronut poutine 90's paleo truffaut artisan. Master cleanse yr subway tile salvia shoreditch farm-to-table. Tofu slow-carb vexillologist try-hard kale chips. Trust fund tousled 8-bit chartreuse succulents jianbing.</p>
+        </div>
       </div>
     </section>
 
@@ -43,12 +45,14 @@
     </section>
 
 		<section class="grayed" id="humble-brag">
-      <div class="wrapper">
-        <h2>A closing reminder of your offer</h2>
-        <p>Vape humblebrag 8-bit synth literally, small batch fingerstache truffaut irony fashion axe tumeric typewriter iceland stumptown succulents. Taxidermy microdosing pop-up, freegan try-hard raclette wayfarers before they sold out mlkshk. Photo booth mixtape vice gentrify green juice sriracha.</p>
+      <div class="darken">
+        <div class="wrapper">
+          <h2>A closing reminder of your offer</h2>
+          <p>Vape humblebrag 8-bit synth literally, small batch fingerstache truffaut irony fashion axe tumeric typewriter iceland stumptown succulents. Taxidermy microdosing pop-up, freegan try-hard raclette wayfarers before they sold out mlkshk. Photo booth mixtape vice gentrify green juice sriracha.</p>
 
-        <br>
-        <a href="mailto:someone@example.com" class="btn btn-primary">Contant Us</a>
+          <br>
+          <a href="mailto:someone@example.com" class="btn btn-primary">Contant Us</a>
+        </div>
       </div>
 		</section>
 
