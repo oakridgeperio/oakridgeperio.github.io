@@ -30,7 +30,7 @@ html {
   justify-content: center;
 
   div {
-    min-height: 200px;
+    min-height: 350px;
     flex-basis: 35%;
     margin: $spacing-xl;
   }
@@ -49,6 +49,15 @@ html {
   }
   h2 { color: white; }
   p { color: white; }
+}
+#benefits {
+  div {
+    background-size: cover;
+    background-position-y: center;
+  }
+  #benefit1 { background-image: url('/img/benefits.jpg') }
+  #benefit2 { background-image: url('/img/benefits.jpg') }
+  #benefit3 { background-image: url('/img/benefits.jpg') }
 }
 @media screen and (max-width: 850px) {
   .photo-row { flex-wrap: no-wrap; }
