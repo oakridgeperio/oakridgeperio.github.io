@@ -1,6 +1,8 @@
 $black: #212528;
 $color_primary: #4CB5F5;
 $color_secondary: #B3C100;
+$color_background_primary: #F0F0EE;
+$color_background_secondary: #34675C;
 
 .btn-primary {
   background-color: $color_primary !important;
@@ -118,6 +120,24 @@ $color_secondary: #B3C100;
   }
 }
 
+p {font-weight: 200;}
+.flex { display: flex }
+.flex-col-middle {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  div {
+    max-width: 700px;
+    text-align: center;
+  }
+}
+.flex-row-middle {
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  div { max-width: 400px; }
+}
+
 #main-splash {
   height: 80vh;
   background-image: url("../img/bg-1.jpg");
@@ -127,8 +147,35 @@ $color_secondary: #B3C100;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  div {
-    width: 500px;
-    text-align: center;
+}
+
+#mission-statement {
+  background-color: $color_background_secondary;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  div { color: white; }
+}
+
+#services {
+  background-color: $color_background_primary;
+  height: 60vh;
+  h4 {
+    color: #B6B6B6;
+    font-size: 15px;
+    margin: 0;
+  }
+  svg {
+    height: 80px;
+    transform: translate(-14px, 0px);
+  }
+  .custom-wrapper {
+    max-width: 85%;
+    margin: auto;
+  }
+
+  .services-card-container div {
+    margin-right: 20px;
   }
 }
