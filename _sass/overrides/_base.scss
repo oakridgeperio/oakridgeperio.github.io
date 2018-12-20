@@ -2,6 +2,14 @@ $black: #212528;
 $color_primary: #4CB5F5;
 $color_secondary: #B3C100;
 
+.btn-primary {
+  background-color: $color_primary !important;
+  border: 0px !important;
+}
+.btn-secondary {
+  background-color: $color_secondary !important;
+  border: 0px !important;
+}
 .navbar-custom {
   background: white;
   position: fixed !important;
@@ -107,5 +115,20 @@ $color_secondary: #B3C100;
     -ms-transform: translate3d(0, 100%, 0);
     -o-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
+  }
+}
+
+#main-splash {
+  height: 80vh;
+  background-image: url("../img/bg-1.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  div {
+    width: 500px;
+    text-align: center;
   }
 }
