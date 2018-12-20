@@ -1,8 +1,8 @@
 ---
 layout: override_post
-title: About
+title: Biographies
 permalink: /about/
-header-img: "img/home-bg2.jpg"
+header-img: ""
 ---
 
 Some really cool stuff about the practice

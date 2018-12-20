@@ -1,0 +1,17 @@
+<nav class="navbar navbar-expand-lg navbar-light navbar-custom">
+  <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.title }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+      <ul class="navbar-nav ml-auto">
+        {% for page in site.pages %}{% if page.title %}
+          {% if page.url != '/404.html' %}
+            <li class="nav-item">
+              <a href="{{ page.url | prepend: site.baseurl }}" class="nav-link">{{ page.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}{% endfor %}
+      </ul>
+    </div>
+</nav>
