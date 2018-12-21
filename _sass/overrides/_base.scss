@@ -3,6 +3,7 @@ $color_primary: #4CB5F5;
 $color_secondary: #B3C100;
 $color_background_primary: #F0F0EE;
 $color_background_secondary: #34675C;
+$color_charcoal_gray: #5C5C5C;
 
 .btn-primary {
   background-color: $color_primary !important;
@@ -151,6 +152,7 @@ p {font-weight: 200;}
 
 #mission-statement {
   background-color: $color_background_secondary;
+  min-height: 50vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -178,4 +180,24 @@ p {font-weight: 200;}
     flex-wrap: wrap;
   }
   .services-card-container div { max-width: 350px; }
+}
+
+#reviews {
+  background-color: $color_primary;
+  min-height: 50vh;
+}
+
+#closer { min-height: 60vh; }
+
+#footer {
+  padding-left: 30px;
+  padding-right: 30px;
+  color: $color_background_primary;
+  background-color: $color_charcoal_gray;
+  #details-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .hours { text-align: right; }
 }
