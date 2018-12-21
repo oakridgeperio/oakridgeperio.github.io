@@ -72,7 +72,7 @@ $color_background_secondary: #34675C;
     transition: 1s;
   }
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 992px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
@@ -160,7 +160,7 @@ p {font-weight: 200;}
 
 #services {
   background-color: $color_background_primary;
-  height: 60vh;
+  min-height: 60vh;
   h4 {
     color: #B6B6B6;
     font-size: 15px;
@@ -174,8 +174,8 @@ p {font-weight: 200;}
     max-width: 85%;
     margin: auto;
   }
-
-  .services-card-container div {
-    margin-right: 20px;
+  .services-card-container {
+    flex-wrap: wrap;
   }
+  .services-card-container div { max-width: 350px; }
 }
