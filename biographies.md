@@ -1,7 +1,7 @@
 ---
-layout: override_post
+layout: default
 title: Biographies
-permalink: /about/
+permalink: /biographies/
 header-img: ""
 ---
 
