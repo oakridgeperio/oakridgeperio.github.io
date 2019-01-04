@@ -5,13 +5,15 @@ $color_background_primary: #F0F0EE;
 $color_background_secondary: #34675C;
 $color_charcoal_gray: #5C5C5C;
 
-.btn-primary {
+.btn-primary, a:visited.btn-primary {
   background-color: $color_primary !important;
   border: 0px !important;
+  color: white;
 }
-.btn-secondary {
+.btn-secondary, a:visited.btn-secondary {
   background-color: $color_secondary !important;
   border: 0px !important;
+  color: white;
 }
 .navbar-custom {
   background: white;
@@ -200,4 +202,16 @@ p {font-weight: 200;}
     justify-content: space-between;
   }
   .hours { text-align: right; }
+}
+
+#default-splash {
+  height: 50vh;
+  background-image: url("../img/bg-1.jpg");
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
