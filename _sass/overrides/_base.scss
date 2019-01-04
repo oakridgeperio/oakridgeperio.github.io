@@ -200,8 +200,12 @@ p {font-weight: 200;}
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    p { font-size: 12px; }
   }
-  .hours { text-align: right; }
+  .hours {
+    text-align: right;
+    font-size: 12px;
+  }
 }
 
 #default-splash {
@@ -217,7 +221,7 @@ p {font-weight: 200;}
 }
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Lora', serif !important; }
-p {
+p, label {
   font-family: 'Open Sans', sans-serif !important;
   font-weight: 300 !important;
 }
