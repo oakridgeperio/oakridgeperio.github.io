@@ -194,7 +194,7 @@ p {font-weight: 200;}
   align-items: center;
   flex-direction: row;
   justify-content: center;
-  div { max-width: 400px; }
+  div, img { width: 400px; }
 }
 
 #closer { min-height: 60vh; }
