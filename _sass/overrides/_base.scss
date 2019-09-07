@@ -5,6 +5,7 @@ $color_background_primary: #F0F0EE;
 $color_background_secondary: #34675C;
 $color_charcoal_gray: #5C5C5C;
 
+.text-justify { text-align: justify }
 .btn-primary, a:visited.btn-primary {
   background-color: $color_primary !important;
   border: 0px !important;
@@ -150,6 +151,9 @@ p {font-weight: 200;}
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  p {
+    width: 510px;
+  }
 }
 
 #mission-statement {
