@@ -8,7 +8,7 @@ header-img: ""
 # Our Doctors
 
 ## Dr. Robert Leung
-Dr. Robert Leung has been a practising in Vancouver as a Certified Specialist in Periodontics for over 30 years. He is a Fellow of the Royal College of Dentists in Canada (RCDC) as well as the College of Dental Surgeons in BC in Periodontics.  He graduated from the University of British Columbia with his Doctor in Dental Medicine in 1979.  He completed a General Practice residency at Vancouver General Hospital in 1980 before practicing general dentistry in Bella Bella and Cranbrook, BC.  He received his Master in Public Health from Loma Linda University in 198* before returning to UBC to complete his Diploma in Periodontics in 1984. He is an Assistant Clinical Professor at UBC.
+Dr. Robert Leung has been a practising in Vancouver as a Certified Specialist in Periodontics for over 30 years. He is a Fellow of the Royal College of Dentists in Canada (RCDC) as well as the College of Dental Surgeons in BC in Periodontics.  He graduated from the University of British Columbia with his Doctor in Dental Medicine in 1979.  He completed a General Practice residency at Vancouver General Hospital in 1980 before practicing general dentistry in Bella Bella and Cranbrook, BC.  He received his Master in Public Health from Loma Linda University in 1982 before returning to UBC to complete his Diploma in Periodontics in 1984. He is an Assistant Clinical Professor at UBC.
 
 He is fluent in English, Cantonese and Mandarin.
 
