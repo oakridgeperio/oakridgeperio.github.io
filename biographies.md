@@ -15,7 +15,7 @@ He is fluent in English, Cantonese and Mandarin.
 ---
 
 ## Dr. Kyla Leung
-Dr. Kyla Leung is a Fellow of the Royal College of Dentists in Canada, FRCD(C), and Diplomate of the American Board of Periodontology, DABP. She received her Doctor of Dental Medicine, Master in Craniofacial Sciences, and Certificate in Periodontics from the University of British Columbia. She is an Assistant Clinical Professor at UBC dental school.
+Dr. Kyla Leung is a Certified Specialist in Periodontics. She is a Fellow of the Royal College of Dentists in Canada, FRCD(C), and Diplomate of the American Board of Periodontology, DABP. She received her Doctor of Dental Medicine, Master in Craniofacial Sciences, and Certificate in Periodontics from the University of British Columbia. She is an Assistant Clinical Professor at UBC dental school.
 
 She is fluent in English and Cantonese and can speak limited Mandarin.
 
@@ -23,7 +23,7 @@ She is fluent in English and Cantonese and can speak limited Mandarin.
 
 ## Dr. Cynthia Yee
 
-Dr. Cynthia Yee is a Fellow of the Royal College of Dentists in Canada, FRCD(C), and Diplomate of the American Board of Periodontology, DABP.  She received her DDS from University of Alberta.  She completed Advanced Education in General Dentistry, Master in Oral Biology and Certificate in Periodontics at Boston University.  She is an Assistant Clinical Professor at UBC dental school.  
+Dr. Cynthia Yee is a Certified Specialist in Periodontics. She is a Fellow of the Royal College of Dentists in Canada, FRCD(C), and Diplomate of the American Board of Periodontology, DABP.  She received her DDS from University of Alberta.  She completed Advanced Education in General Dentistry, Master in Oral Biology and Certificate in Periodontics at Boston University.  She is an Assistant Clinical Professor at UBC dental school.  
 
 She is fluent in English, Cantonese and Mandarin.
 <Paste>
