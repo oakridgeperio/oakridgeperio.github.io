@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Biographies
-permalink: /biographies/
+title: About Us
+permalink: /about_us/
 header-img: ""
 ---
 
